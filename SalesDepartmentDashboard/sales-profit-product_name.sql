@@ -16,17 +16,16 @@ SELECT
   (salesorderdetail.linetotal - product.standardcost*salesorderdetail.orderqty) AS profit,
   REGEXP_REPLACE(product.name, ',.*', '') AS product_name
   
-
 FROM
 tc-da-1.adwentureworks_db.salesorderheader AS sales
+  
 LEFT JOIN
 tc-da-1.adwentureworks_db.salesorderheadersalesreason AS sales_reason
-ON
-sales.SalesOrderID = sales_reason.salesOrderID
+ON sales.SalesOrderID = sales_reason.salesOrderID
+  
 LEFT JOIN
 tc-da-1.adwentureworks_db.salesreason AS reason
-ON
-sales_reason.SalesReasonID = reason.SalesReasonID
+ON sales_reason.SalesReasonID = reason.SalesReasonID
 
 LEFT JOIN
 tc-da-1.adwentureworks_db.salesorderdetail
