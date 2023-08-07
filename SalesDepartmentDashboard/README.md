@@ -26,8 +26,26 @@ Create presentation with insights and present it.
 
 [Interactive Google Looker Studio Dashboard](https://lookerstudio.google.com/reporting/d8128412-79aa-494d-a337-b9cdcf3585c2)
 
-#### :pushpin: Preview:
+#### :pushpin: Dashboard Preview:
 <img src="https://github.com/aidas-projects/TC_data_projects/blob/main/SalesDepartmentDashboard/sales_department_dashboard_1.png" width="735" height="1795" /> 
+
+#### :pushpin: Presentation Preview:
+<img src="https://github.com/aidas-projects/TC_data_projects/blob/main/SalesDepartmentDashboard/presentation_preview/Slide2.PNG"/> 
+<img src="https://github.com/aidas-projects/TC_data_projects/blob/main/SalesDepartmentDashboard/presentation_preview/Slide3.PNG"/> 
+<img src="https://github.com/aidas-projects/TC_data_projects/blob/main/SalesDepartmentDashboard/presentation_preview/Slide4.PNG"/> 
+<img src="https://github.com/aidas-projects/TC_data_projects/blob/main/SalesDepartmentDashboard/presentation_preview/Slide5.PNG"/> 
+<img src="https://github.com/aidas-projects/TC_data_projects/blob/main/SalesDepartmentDashboard/presentation_preview/Slide6.PNG"/> 
+<img src="https://github.com/aidas-projects/TC_data_projects/blob/main/SalesDepartmentDashboard/presentation_preview/Slide7.PNG"/> 
+<img src="https://github.com/aidas-projects/TC_data_projects/blob/main/SalesDepartmentDashboard/presentation_preview/Slide8.PNG"/> 
+<img src="https://github.com/aidas-projects/TC_data_projects/blob/main/SalesDepartmentDashboard/presentation_preview/Slide9.PNG"/> 
+<img src="https://github.com/aidas-projects/TC_data_projects/blob/main/SalesDepartmentDashboard/presentation_preview/Slide10.PNG"/> 
+<img src="https://github.com/aidas-projects/TC_data_projects/blob/main/SalesDepartmentDashboard/presentation_preview/Slide11.PNG"/> 
+<img src="https://github.com/aidas-projects/TC_data_projects/blob/main/SalesDepartmentDashboard/presentation_preview/Slide12.PNG"/> 
+<img src="https://github.com/aidas-projects/TC_data_projects/blob/main/SalesDepartmentDashboard/presentation_preview/Slide13.PNG"/> 
+<img src="https://github.com/aidas-projects/TC_data_projects/blob/main/SalesDepartmentDashboard/presentation_preview/Slide14.PNG"/> 
+<img src="https://github.com/aidas-projects/TC_data_projects/blob/main/SalesDepartmentDashboard/presentation_preview/Slide15.PNG"/> 
+
+
 
 #### :pushpin: SQL Queries for data extraction:
 :floppy_disk: **Online/Offline orders**
