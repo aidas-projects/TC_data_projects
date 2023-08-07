@@ -8,8 +8,6 @@ Create a logistic regression model and predict whether the patient has 10-year r
 
 P.S. Instead of suggested free software **GRETL**, I tried to use the professional statistical model creation software called [**JMP Pro 17**](https://www.jmp.com/en_us/software/predictive-analytics-software.html) (developed by JMP, a subsidiary of SAS Institute). It took a while to understand how to use it, but many youtube videos later I am happy I did it. 
 
-:pushpin: **Assessing the model with performance metrics** (decided to assess both models with performance metrics)
-
 
 :pushpin: **Cleaning data and handling missing values**
 
