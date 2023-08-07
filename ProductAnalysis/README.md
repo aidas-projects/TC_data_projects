@@ -80,4 +80,4 @@ first_event_timestamp = 1604242428392090 first_purchase_timestamp = 160424353315
 Checking my main query final table... These should be only 1 row of user_pseudo_id = '29640692.9507522627' with first_event_timestamp and first_purchase_timestamp mentioned above.
 
 **VERIFIED! It's CORRECT.**
-https://github.com/aidas-projects/TC_data_projects/blob/cb50a6a2781de817c353bbcc1633b56f96710ce9/SalesDepartmentDashboard/monthly_sales_with_sales_reason.sql#L1-L17
+https://github.com/aidas-projects/TC_data_projects/blob/d7c522e23f8328f4acff2eed8e3a3d765bbb276a/ProductAnalysis/sqlquery_validation.sql#L1-L6
