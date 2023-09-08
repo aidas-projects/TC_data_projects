@@ -4,7 +4,7 @@
 #### :small_orange_diamond: Task Description:
 Create a logistic regression model and predict whether the patient has 10-year risk of future coronary heart disease (CHD). The data is given in the sheet Heart_desease. The dataset is from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The dataset provides the patients’ information. It includes over 4,000 records and 15 attributes. The data attributes are described in Heart_desease_desc sheet.
 
-[Link to dataset and my analysis on Google Sheets](https://docs.google.com/spreadsheets/d/15EVtVzqhrxMgSajRv86UJ0WFg4pvlQnS4VK0G1-POtg/edit?usp=sharing)
+[Link to dataset and my analysis on Google Sheets](https://docs.google.com/spreadsheets/d/18JE2xCqDvnsO6K6EnUdzVCuLeQRicVuJoYmouXcUPWU/edit#gid=1699502288)
 
 P.S. Instead of suggested free software **GRETL**, I tried to use the professional statistical model creation software called [**JMP Pro 17**](https://www.jmp.com/en_us/software/predictive-analytics-software.html) (developed by JMP, a subsidiary of SAS Institute). It took a while to understand how to use it, but many youtube videos later I am happy I did it. 
 
